@@ -15,3 +15,11 @@ public class LargestElement {
             System.out.println(max);
         }
     }
+
+
+//    output
+
+// largest no =9
+
+//time O(n)
+//    space O(1)
